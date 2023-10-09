@@ -3,7 +3,7 @@
 #+DATE: 2015-08-24 22:28:09.995471
 #+PROPERTY: ID KR2d0006
 #+PROPERTY: BASEEDITION WYG    
-#+PROPERTY: JUAN 卷二十三
+#+PROPERTY: JUAN 卷二十二
 <pb:KR2d0006_WYG_029-1a>¶
 ¶
 <pb:KR2d0006_WYG_029-2a>¶
@@ -139,6 +139,44 @@
 <pb:KR2d0006_WYG_029-67a>¶
 ¶
 <pb:KR2d0006_WYG_029-68a>¶
+¶
+<pb:KR2d0006_WYG_029-69a>¶
+¶
+<pb:KR2d0006_WYG_029-70a>¶
+¶
+<pb:KR2d0006_WYG_029-71a>¶
+¶
+<pb:KR2d0006_WYG_029-72a>¶
+¶
+<pb:KR2d0006_WYG_029-73a>¶
+¶
+<pb:KR2d0006_WYG_029-74a>¶
+¶
+<pb:KR2d0006_WYG_029-75a>¶
+¶
+<pb:KR2d0006_WYG_029-76a>¶
+¶
+<pb:KR2d0006_WYG_029-77a>¶
+¶
+<pb:KR2d0006_WYG_029-78a>¶
+¶
+<pb:KR2d0006_WYG_029-79a>¶
+¶
+<pb:KR2d0006_WYG_029-80a>¶
+¶
+<pb:KR2d0006_WYG_029-81a>¶
+¶
+<pb:KR2d0006_WYG_029-82a>¶
+¶
+<pb:KR2d0006_WYG_029-83a>¶
+¶
+<pb:KR2d0006_WYG_029-84a>¶
+¶
+<pb:KR2d0006_WYG_029-85a>¶
+¶
+<pb:KR2d0006_WYG_029-86a>¶
+¶
+<pb:KR2d0006_WYG_029-87a>¶
 　¶
 　¶
 　¶
@@ -147,7 +185,7 @@
 　¶
 　¶
 　¶
-<pb:KR2d0006_WYG_029-68b>¶
+<pb:KR2d0006_WYG_029-87b>¶
 　¶
 　¶
 　¶
@@ -155,4 +193,4 @@
 　¶
 　¶
 　¶
-　通志卷二十三¶
+　通志卷二十二¶
